@@ -90,7 +90,6 @@ import java.util.Optional;
             if(Objects.equals(book.getLoanStatus(), "Loaned")){
                 List<Loan> loans = loanRepo.findLoansByBookId(id);
                 loanRepo.deleteAll(loans);
-//                loans.forEach(loan->loanRepo.save(loan));
             }
             bookRepo.deleteById(id);
         }else{
@@ -127,3 +126,4 @@ import java.util.Optional;
     }
 
 }
+
