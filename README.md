@@ -14,7 +14,6 @@ A backend Library Management System built with Spring Boot, Hibernate, and Postg
 - PostgreSQL
 - Spring Data JPA / Hibernate
 - Maven
-- Java 17+
 
 ## API Endpoints
 
