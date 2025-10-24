@@ -9,7 +9,7 @@ A backend Library Management System built with Spring Boot, Hibernate, and Postg
 - Book search by title
 - Loan status tracking
 
-## Technology Stack
+## Technologies used
 - Spring Boot 3.x
 - PostgreSQL
 - Spring Data JPA / Hibernate
