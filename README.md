@@ -12,7 +12,7 @@ A backend Library Management System built with Spring Boot, Hibernate, and Postg
 ## Technologies used
 - Spring Boot 3.x
 - PostgreSQL
-- Spring Data JPA / Hibernate
+- Spring Data JPA with Hibernate
 - Maven
 
 ## API Endpoints
